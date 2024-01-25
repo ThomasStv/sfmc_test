@@ -204,7 +204,6 @@ window.evergageBeaconParseTimeEnd = (new Date().getTime());
            account: "drmaxbdcsro",
            dataset: "drmax_poldro_dev",
            cdnUrl: "https://cdn.evergage.com",
-           //trackerUrl: "https://drmaxbdcsro.germany-2.evergage.com",
            trackerUrl: "https://gtmpurchaselogger.azurewebsites.net/api/redir",
            siteConfigVersion: "1"
        },{"allowBotTraffic":false,"corsAllowedOrigins":["*"],"defaultCurrency":"PLN","defaultLocale":null,"disableQtipWindowScroll":false,"doNotStoreCookiesRequireProvidedAnonId":false,"doNotTrackPingRequestsForActions":false,"enableCorsRestrictedOrigins":false,"enableMessageRotation":false,"enableRememberMeUserIds":false,"enableTemplateEsc":false,"hideContentSections":false,"hideContentSectionsMillis":2500,"hidePagesForRedirect":false,"hidePagesForRedirectMillis":1000,"identityAttributes":["client_uid","customerId","emailAddress","profileId","sfmcContactKey"],"lastModified":1703172867661,"preventSensitiveDataCapture":false,"rememberMeUserIdsMillis":63072000000,"secureCookie":true,"sendErrorEvents":true,"showPoweredBy":false,"siteConfigExecBeforePageReady":false,"spaRouteChangeTimeout":500,"trackAnonymousVisitors":true,"trackContextualRelatedItems":false,"trackSubdomainAsCompany":false,"trackUnknownPagesByTitle":false,"treatHashChangeAsPageLoad":false}       );
